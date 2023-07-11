@@ -14,14 +14,15 @@ menu:
             name: Blog
             url: blog
             weight: 20
-        -   identifier: search
-            name: Search
-            url: search
-            weight: 30
-        -   identifier: archive
-            name: Archive
-            url: archives
-            weight: 40
+        # Well setup this up once we have enough posts
+        # -   identifier: search
+        #     name: Search
+        #     url: search
+        #     weight: 30
+        # -   identifier: archive
+        #     name: Archive
+        #     url: archives
+        #     weight: 40
 
 
 params:
